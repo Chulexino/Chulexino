@@ -1,4 +1,4 @@
-Hi, I'm Chulexin0 👋
+Hi, I'm Chulexino 👋
 
 I build on the **Stellar** ecosystem and contribute through **Drips Wave**: Soroban smart contracts, backends and front-ends.
 
@@ -13,5 +13,5 @@ Recent merged work
 - **Veritasor Frontend**: [regression tests for AttestationConfirmModal](https://github.com/Veritasor/Veritasor-Frontend/pull/825)
 - **Heliobond Backend**: [tests for the tracer module](https://github.com/Heliobond/backend/pull/591)
 
-Open to
-Soroban contract work, TypeScript backends and front-end issues on Stellar projects.# Chulexin0
+### Open to
+Soroban contract work, TypeScript backends and front-end issues on Stellar projects. Chulexin0
